@@ -1,2 +1,2 @@
 # happiness
-Search for presence of the current signal
+Happiness is a search for presence of the current signal.
